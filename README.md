@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - ✨ Web Development
 - 💕 Machine Learning
 - 📚 Data Science
+- ⚙ Automation Development and Testing
 
 ### 🌱 I am currently learning how to get into Freelancing.
 ### 👯 I am looking to collaborate with fellow learners and freelancers.
