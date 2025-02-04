@@ -5,12 +5,23 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## I am a Software Engineer.
+
+## My domain expertise are as follows:-
+
+- 💖 Software Development and Testing
+- ✨ Web Development
+- 💕 Machine Learning
+- 📚 Data Science
+
+
+### 🌱 I am currently learning how to get into Freelancing.
+### 👯 I am looking to collaborate to fellow learners and freelancers.
+
+## Reach out to me at
+- https://www.linkedin.com/in/guru-akaash-janthalur-n-5262101b9/
+
+## ⚡ Motivation fact
+- Don't have a Map, have a Compass. Try to explore your own new path.
+
 -->
