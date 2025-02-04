@@ -30,3 +30,7 @@ Here are some ideas to get you started:
 
 ### ⚡ Motivation fact
 - Don't have a Map, have a Compass. Try to explore your own new path.
+
+### Contribution done in my previous Job.
+![GitHub_Performance_Chart](https://github.com/user-attachments/assets/b3ff6d24-eb4b-4d3b-bd33-21a0d12b1969)
+
