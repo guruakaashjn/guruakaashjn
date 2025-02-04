@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 💕 Machine Learning
 - 📚 Data Science
 
-
 ### 🌱 I am currently learning how to get into Freelancing.
 ### 👯 I am looking to collaborate to fellow learners and freelancers.
 
