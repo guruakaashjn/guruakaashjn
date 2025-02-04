@@ -31,8 +31,9 @@ Here are some ideas to get you started:
 ### ⚡ Motivation fact
 - Don't have a Map, have a Compass. Try to explore your own new path.
 
-### Contribution done in my previous Job.
-![GitHub_Performance_Graph](https://github.com/user-attachments/assets/67b59c8b-a469-4676-8df3-7d468aacf2d5)
+### Code contribution done from my previous organization's GitHub profile
 ![GitHub_Performance_Chart](https://github.com/user-attachments/assets/b3ff6d24-eb4b-4d3b-bd33-21a0d12b1969)
+![GitHub_Performance_Graph](https://github.com/user-attachments/assets/67b59c8b-a469-4676-8df3-7d468aacf2d5)
+
 
 
