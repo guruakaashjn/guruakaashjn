@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### 🌱 I am currently learning how to get into Freelancing.
 ### 👯 I am looking to collaborate with fellow learners and freelancers.
 
-### Reach out to me at
+### ℹ Reach out to me at
 - https://www.linkedin.com/in/guru-akaash-janthalur-n-5262101b9/
 
 ### ⚡ Motivation fact
