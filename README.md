@@ -25,12 +25,14 @@ Here are some ideas to get you started:
 ### 🌱 I am currently learning how to get into Freelancing.
 ### 👯 I am looking to collaborate with fellow learners and freelancers.
 
-### ℹ Reach out to me at
+### ℹ Feel free to reach out to me at
 - https://www.linkedin.com/in/guru-akaash-janthalur-n-5262101b9/
 
 ### ⚡ Motivation fact
 - Don't have a Map, have a Compass. Try to explore your own new path.
 
 ### Contribution done in my previous Job.
+![GitHub_Performance_Graph](https://github.com/user-attachments/assets/67b59c8b-a469-4676-8df3-7d468aacf2d5)
 ![GitHub_Performance_Chart](https://github.com/user-attachments/assets/b3ff6d24-eb4b-4d3b-bd33-21a0d12b1969)
+
 
