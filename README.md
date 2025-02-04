@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I am a Software Engineer.
+### I am a Software Engineer.
 
-## My domain expertise are as follows:-
+### My domain expertise are as follows:-
 
 - 💖 Software Development and Testing
 - ✨ Web Development
@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ### 🌱 I am currently learning how to get into Freelancing.
 ### 👯 I am looking to collaborate with fellow learners and freelancers.
 
-## Reach out to me at
+### Reach out to me at
 - https://www.linkedin.com/in/guru-akaash-janthalur-n-5262101b9/
 
-## ⚡ Motivation fact
+### ⚡ Motivation fact
 - Don't have a Map, have a Compass. Try to explore your own new path.
