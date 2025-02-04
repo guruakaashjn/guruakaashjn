@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, This is J N Guru Akaash
 
 <!--
 **guruakaashjn/guruakaashjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📚 Data Science
 
 ### 🌱 I am currently learning how to get into Freelancing.
-### 👯 I am looking to collaborate to fellow learners and freelancers.
+### 👯 I am looking to collaborate with fellow learners and freelancers.
 
 ## Reach out to me at
 - https://www.linkedin.com/in/guru-akaash-janthalur-n-5262101b9/
