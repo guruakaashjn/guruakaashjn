@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 - Don't have a Map, have a Compass. Try to explore your own new path.
 
 ### Code contribution done at Forcepoint LLC from my organization's GitHub profile in 2024.
-<img src="https://github.com/user-attachments/assets/b3ff6d24-eb4b-4d3b-bd33-21a0d12b1969" width="50%" alt="GitHub_Performance_Chart" />
-<img src="https://github.com/user-attachments/assets/b3ff6d24-eb4b-4d3b-bd33-21a0d12b1969" width="50%" alt="GitHub_Performance_Chart" />
+<img src="https://github.com/user-attachments/assets/b3ff6d24-eb4b-4d3b-bd33-21a0d12b1969" width="49%" alt="GitHub_Performance_Chart" />
+<img src="https://github.com/user-attachments/assets/b3ff6d24-eb4b-4d3b-bd33-21a0d12b1969" width="49%" alt="GitHub_Performance_Chart" />
 ![GitHub_Performance_Chart](https://github.com/user-attachments/assets/b3ff6d24-eb4b-4d3b-bd33-21a0d12b1969)
 
 ### I Was among the Top 2 contributors (out of 35-36 team of contributors) from my previous organization's GitHub profile.
