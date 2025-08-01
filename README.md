@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 <img src="https://github.com/user-attachments/assets/67b59c8b-a469-4676-8df3-7d468aacf2d5" width="75%" alt="Guru_Akaash_GitHub_Performance_Chart_Forcepoint_2" />
 
 ### Software contributions done at Praan Climate Technologies Pvt. Ltd. consistently from Day 1 till Last (but not the least) day, from my organization's GitHub profile in 2025.
-<img width="1907" height="879" alt="Guru_Akaash_GitHub_Performance_Chart_Praan_1" src="https://github.com/user-attachments/assets/01480a54-2d54-4ae2-8ff7-a58b42aa9379" />
+<img width="75%" alt="Guru_Akaash_GitHub_Performance_Chart_Praan_1" src="https://github.com/user-attachments/assets/01480a54-2d54-4ae2-8ff7-a58b42aa9379" />
 
