@@ -32,13 +32,11 @@ Here are some ideas to get you started:
 ### ⚡ Motivation fact
 - Don't have a Map, have a Compass. Try to explore your own new path.
 
-### Code contribution done at Forcepoint LLC from my organization's GitHub profile in 2024.
-<img src="https://github.com/user-attachments/assets/b3ff6d24-eb4b-4d3b-bd33-21a0d12b1969" width="49%" alt="GitHub_Performance_Chart" />
-<img src="https://github.com/user-attachments/assets/b3ff6d24-eb4b-4d3b-bd33-21a0d12b1969" width="49%" alt="GitHub_Performance_Chart" />
-![GitHub_Performance_Chart](https://github.com/user-attachments/assets/b3ff6d24-eb4b-4d3b-bd33-21a0d12b1969)
+### Software contributions done at Forcepoint LLC from my organization's GitHub profile in 2024.
+### I was among the Top 2 contributors (out of 35-36 team of contributors) at Forcepoint.
+<img src="https://github.com/user-attachments/assets/b3ff6d24-eb4b-4d3b-bd33-21a0d12b1969" width="49%" alt="Guru_Akaash_GitHub_Performance_Chart_Forcepoint_1" />
+<img src="https://github.com/user-attachments/assets/67b59c8b-a469-4676-8df3-7d468aacf2d5" width="49%" alt="Guru_Akaash_GitHub_Performance_Chart_Forcepoint_2" />
 
-### I Was among the Top 2 contributors (out of 35-36 team of contributors) from my previous organization's GitHub profile.
-![GitHub_Performance_Graph](https://github.com/user-attachments/assets/67b59c8b-a469-4676-8df3-7d468aacf2d5)
-
-
+### Software contributions done at Praan Climate Technologies Pvt. Ltd. consistently from Day 1 till Last (but not the least) day, from my organization's GitHub profile in 2025.
+<img width="1907" height="879" alt="Guru_Akaash_GitHub_Performance_Chart_Praan_1" src="https://github.com/user-attachments/assets/01480a54-2d54-4ae2-8ff7-a58b42aa9379" />
 
