@@ -1,25 +1,24 @@
 <h2 align="center"></h2>
 
 <h1 align="center">Hi There 👋, This is Guru Akaash</h1>
-<h2 align="center">Guru Akaash Nagaraj Janthalur (J N Guru Akaash)</h2>
 
-### I am a Enthusiastic Software Engineer with 2+ years of proven work experience.
+<h3 align='center'>I am a Software Engineer with 2+ years of proven work experience.</h2>
 
-### My domain expertise are as follows:-
+![Profile Views](https://komarev.com/ghpvc/?username=guruakaashjn&label=Profile%20views&color=0e75b6&style=flat)
+
+### 🎯 My domain expertise are as follows:-
 
 - 💖 Software Development and Testing
 - ✨ Web Development
-- 💕 Machine Learning
-- 📚 Data Science
+- 📚 Machine Learning & Data Science
 - ⚙ Automation Development and Testing
 
-### 🌱 I am currently learning how to get into Freelancing.
-
-### 👯 I am looking to collaborate with fellow learners and freelancers.
+#### 👯 I am looking to collaborate with fellow learners and freelancers.
 
 ### ℹ Feel free to reach out to me at
 
 - https://www.linkedin.com/in/guru-akaash-janthalur-n-5262101b9/
+- https://www.instagram.com/guruakaashj?igsh=YnM3b2tubzV1NGVq
 
 ### ⚡ Motivation fact
 
