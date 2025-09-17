@@ -1,7 +1,7 @@
-<h2 align="center">Hi There 👋</h2>
+<h2 align="center"></h2>
 
-<h1 align="center">This is Guru Akaash Nagaraj Janthalur (J N Guru Akaash)</h1>
-<br>
+<h1 align="center">Hi There 👋, This is Guru Akaash</h1>
+<h2 align="center">Guru Akaash Nagaraj Janthalur (J N Guru Akaash)</h2>
 
 ### I am a Enthusiastic Software Engineer with 2+ years of proven work experience.
 
