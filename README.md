@@ -47,3 +47,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Received appreciation at Acquia for leading the smooth migration (despite facing multiple blockers and extended efforts) of customer site resources from nginx to nginx-f5 ingress controller, without traffic interruption.(spanning over a quarter).
+  <img width="4080" height="2296" alt="20260611_175112" src="https://github.com/user-attachments/assets/1d3fe5bc-a640-48a7-b282-73192a330e34" />
