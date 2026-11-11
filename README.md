@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi There 👋, This is Guru Akaash</h1>
 
-<h3 align='center'>I am a Software Engineer with 2+ years of proven work experience.</h2>
+<h3 align='center'>I am a Software Engineer with 3+ years of proven work experience.</h2>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=guruakaashjn&label=Profile%20views&color=0e75b6&style=flat)
 
